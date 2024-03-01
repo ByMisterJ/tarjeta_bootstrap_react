@@ -1,0 +1,38 @@
+#autora{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+#descripcion{
+    margin-top: 6px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+h4{
+    margin-bottom: 6px;
+    background-color: white;
+}
+
+#nose{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color:  rgb(219, 162, 241);
+}
+
+.card{
+    background-color: rgb(146, 233, 204);
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+img{
+    height: 152px;
+    border: 16px solid  rgb(146, 233, 204);
+}
+.cosa{
+    background-color: white;
+    margin-bottom: 16px;
+    height: fit-content;
+}
